@@ -8,8 +8,8 @@ political_tweets = [
     "The government's new policy on education is a step in the right direction. #IndiaEducation",
     "I am deeply concerned about the rising unemployment rates in our country. #IndiaUnemployment",
     "The recent budget announcement has neglected crucial sectors like healthcare. #IndiaBudget",
-    "It's time for politicians to prioritize environmental conservation over economic gains. #IndiaEnvironment",
-    "The infrastructure development projects are transforming the face of rural India, Greak Work. #IndiaInfrastructure #GreatWork"
+    "It's time for politicians to prioritize environmental conservation over Economic Gains. #IndiaEnvironment",
+    "The Infrastructure development projects are transforming the face of Rural India, Greak Work. #IndiaInfrastructure #GreatWork"
 ]
 
 # Predict sentiment for each political tweet
